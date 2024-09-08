@@ -1,0 +1,6 @@
+streamlit>1.24.0
+pandas==2.0.3
+plotly==5.16.1
+numpy==1.26.4 #use numpy versions between 1 and 2, exclusively
+matplotlib
+emoji
